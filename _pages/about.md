@@ -1,29 +1,20 @@
 ---
 layout: page
-title: About
+title: Hej.
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+🧚‍♀️
+My name is Svenja. I live in Spain – more precisely in Almería; I grew up in Dortmund (Germany), moved and travelled around a bit until I had enough of the sad weather and found my way to Andalusia.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+👩‍💻
+I'm a Development Team Lead at [thoughtbot](https://thoughtbot.com) which gives me the great opportunity to not only code with fantastic people but to also mentor wonderful folks.
 
-## Features
+🐾
+Speaking about fantastic and wonderful – I have two incredible dogs, Hugo and Ona with whom I enjoy spending time with.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+🌱
+I'm trying to live a healthy and sustainable life which means that I don't kill or hurt animals: not for food nor clothes or dog food. Yeah, my dogs, as long as nothing unexpected happens, are plant eater as I am.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+🛹
+Recently, I had the thought that learning how to skateboard is a good idea – let's see how long that last.
