@@ -4,11 +4,14 @@ layout: default
 
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+  <p class="author_title">{{ page.subtitle }}</p>
+  {% endif %}
 
   <div>
     <p class="author_title">{{ page.date | date: "%B %e, %Y" }}</p>
     {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+      <p class="modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}">Last updated at {{ page.last_modified_at | date: "%B %e, %Y" }}</p>
     {% endif %}
     <div class="post-tags">
       {% if post %}

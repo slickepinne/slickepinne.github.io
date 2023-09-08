@@ -2,6 +2,7 @@
 layout: post
 title:  The CodePush Issue
 categories: [CodePush, Mobile Development, React Native]
+last_modified_at: 2023-09-07
 ---
 
 CodePush, the App Center cloud service by Microsoft, gets tons of praise on the web. And yes, I see the benefits, but I also have some concerns about the extent folks might use it.

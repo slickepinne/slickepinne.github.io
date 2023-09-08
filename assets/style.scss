@@ -198,7 +198,6 @@ a {
   color: $logo;
   text-decoration: none;
   cursor: pointer;
-  padding: 0 5px;
 
   &:hover,
   &:active {
@@ -502,6 +501,15 @@ body:after {
   text-align: center;
   color: #939aa1;
   letter-spacing: 2px;
+  font-size: smaller;
+}
+
+.modified {
+  text-align: center;
+  color: #939aa1;
+  margin-top: -15px;
+  letter-spacing: 2px;
+  font-size: smaller;
 }
 
 .post_date {
