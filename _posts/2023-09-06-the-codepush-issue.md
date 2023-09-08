@@ -4,12 +4,12 @@ title:  The CodePush Issue
 categories: [CodePush, Mobile Development, React Native]
 ---
 
-CodePush, the App Center cloud service by Microsoft, gets tons of praise in the web. And yes, I see the benefits, but I also have some concerns about the extent folks might use it.
+CodePush, the App Center cloud service by Microsoft, gets tons of praise on the web. And yes, I see the benefits, but I also have some concerns about the extent folks might use it.
 
 
-Before I start explaining, let me tell you, that I'm by no means an experienced React Native developer. I mainly use Ruby and Rails but for a few months now, I work with React Native. And I really, really enjoy it. I also enjoy CodePush because it gives me the ability to test and ship my code in an easy way. Until it doesn't...
+Before I start explaining, let me tell you, that I'm by no means an experienced React Native developer. I mainly use Ruby and Rails but for a few months now, I've been working with React Native. And I really, really enjoy it. I also enjoy CodePush because it gives me the ability to test and ship my code in an easy way. Until it doesn't...
 
-In case you are familiar with CodePush, you can skip the next few lines. If not, here are some bundled infos. [Microsoft's CodePush documentation](https://learn.microsoft.com/en-us/appcenter/distribution/codepush/) describes it as a cloud service that enables React Native developers to deploy mobile app updates directly to their users’ devices. And the purpose is:
+In case you are familiar with CodePush, you can skip the next few lines. If not, here are some bundled information. [Microsoft's CodePush documentation](https://learn.microsoft.com/en-us/appcenter/distribution/codepush/) describes it as a cloud service that enables React Native developers to deploy mobile app updates directly to their users’ devices. And the purpose is:
 
 > [...] addressing bugs, adding small features that don’t require you to rebuild a binary, or redistributing it through any public app store.
 
