@@ -4,7 +4,7 @@ title:  Regex Short Series – 3 Underestimated Facts
 categories: [Regular Expressions]
 ---
 
-Since I am somehow passionate about regular expressions – and lots of developers out there not, I thought a "Daily Regex" series could be a great way to reduce scepticism.
+Since I am somehow passionate about regular expressions – and lots of developers out there not, I thought a "Regex Short Series" could be a great way to reduce scepticism.
 
 ### Facts, Facts, Facts
 
