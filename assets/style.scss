@@ -457,6 +457,13 @@ footer {
   text-align: center;
 }
 
+a.svg-icons {
+  padding: 0 5px;
+  &:nth-child(odd) {
+    color: $tagBg;
+  }
+}
+
 body:after {
   background: linear-gradient(to right, #ffffff 0, #2196F3 33%, #E91E63 66%, #000 100%);
   width: 100%;
