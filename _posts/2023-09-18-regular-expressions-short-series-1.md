@@ -16,4 +16,4 @@ Before we begin to talk about regular expressions in detail, let's start this se
 
 Although these facts might be obvious, they might be easy to forget. Don't.
 
-See you tomorrow.
+See you soon.
