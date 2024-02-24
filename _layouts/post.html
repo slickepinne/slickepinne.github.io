@@ -13,6 +13,11 @@ layout: default
     {% if page.last_modified_at %}
       <p class="modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}">Last updated at {{ page.last_modified_at | date: "%B %e, %Y" }}</p>
     {% endif %}
+    {% if page.first_published_on %}
+      <p class="modified">
+        <a href="{{page.first_published_on[0]}}">First published on {{page.first_published_on[1]}}</a>
+      </p>
+    {% endif %}
     <div class="post-tags">
       {% if post %}
         {% assign categories = post.categories %}
